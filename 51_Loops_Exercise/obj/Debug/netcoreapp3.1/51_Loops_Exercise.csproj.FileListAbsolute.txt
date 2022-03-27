@@ -1,0 +1,14 @@
+C:\SRC\CSharp\51_Loops_Exercise\51_Loops_Exercise\bin\Debug\netcoreapp3.1\51_Loops_Exercise.exe
+C:\SRC\CSharp\51_Loops_Exercise\51_Loops_Exercise\bin\Debug\netcoreapp3.1\51_Loops_Exercise.deps.json
+C:\SRC\CSharp\51_Loops_Exercise\51_Loops_Exercise\bin\Debug\netcoreapp3.1\51_Loops_Exercise.runtimeconfig.json
+C:\SRC\CSharp\51_Loops_Exercise\51_Loops_Exercise\bin\Debug\netcoreapp3.1\51_Loops_Exercise.runtimeconfig.dev.json
+C:\SRC\CSharp\51_Loops_Exercise\51_Loops_Exercise\bin\Debug\netcoreapp3.1\51_Loops_Exercise.dll
+C:\SRC\CSharp\51_Loops_Exercise\51_Loops_Exercise\bin\Debug\netcoreapp3.1\51_Loops_Exercise.pdb
+C:\SRC\CSharp\51_Loops_Exercise\51_Loops_Exercise\obj\Debug\netcoreapp3.1\51_Loops_Exercise.csproj.AssemblyReference.cache
+C:\SRC\CSharp\51_Loops_Exercise\51_Loops_Exercise\obj\Debug\netcoreapp3.1\51_Loops_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\SRC\CSharp\51_Loops_Exercise\51_Loops_Exercise\obj\Debug\netcoreapp3.1\51_Loops_Exercise.AssemblyInfoInputs.cache
+C:\SRC\CSharp\51_Loops_Exercise\51_Loops_Exercise\obj\Debug\netcoreapp3.1\51_Loops_Exercise.AssemblyInfo.cs
+C:\SRC\CSharp\51_Loops_Exercise\51_Loops_Exercise\obj\Debug\netcoreapp3.1\51_Loops_Exercise.csproj.CoreCompileInputs.cache
+C:\SRC\CSharp\51_Loops_Exercise\51_Loops_Exercise\obj\Debug\netcoreapp3.1\51_Loops_Exercise.dll
+C:\SRC\CSharp\51_Loops_Exercise\51_Loops_Exercise\obj\Debug\netcoreapp3.1\51_Loops_Exercise.pdb
+C:\SRC\CSharp\51_Loops_Exercise\51_Loops_Exercise\obj\Debug\netcoreapp3.1\51_Loops_Exercise.genruntimeconfig.cache
